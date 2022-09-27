@@ -1,0 +1,5 @@
+requests
+zipfile37
+jsonlib
+os-sys
+boto3
